@@ -17,7 +17,7 @@
                 <ul>
                     <li><a href="#">Work</a></li>
                     <li><a href="#">Skills</a></li>
-                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="contact">Contact</a></li>
                 </ul>
             </nav>
         </header>
@@ -35,7 +35,7 @@
             <h1 class="stagger1">Crafted Web & Print Design</h1>
             <div class="meet stagger1">
                 <span>&darr;</span>
-                <p>contact Emma Nia</p>
+                <p>Contact Emma Nia</p>
 
             </div>
             <svg class="scroll stagger1" width="51" height="90" viewBox="0 0 51 90" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -86,7 +86,7 @@
                         <div class="icon-container two">
                             <img src="images/coding-icon.svg" alt="Front-end Icon" >
                         </div>
-                        <p class="skill-title">Front-End Dev</p>
+                        <p class="skill-title">Front-End Development</p>
                         <p class="featured-desc skill-desc">My knowledge of HTML & CSS allows me to communicate visions and ideas easily across teams</p>
                     </li>
                     <li class="transition2">
